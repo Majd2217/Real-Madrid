@@ -20,8 +20,8 @@
     }
     
     .timeline-date {
-        left: -20px !important;
-        right: auto !important;
+        left: -20px ;
+        right: auto ;
     }
 }
 
@@ -136,7 +136,7 @@
     }
     
     h2 {
-        font-size: 1.8rem !important;
+        font-size: 1.8rem ;
     }
     
     .featured-card,
